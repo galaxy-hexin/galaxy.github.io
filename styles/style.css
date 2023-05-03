@@ -1,0 +1,10 @@
+img[src]{
+	width:1440px;
+	height:877.5px;
+	background-image:url(images/background.jpg);
+	background-repeat:no-repeat;
+  }
+
+h1{
+     color :red;
+    }
